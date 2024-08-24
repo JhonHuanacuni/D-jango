@@ -1,0 +1,14 @@
+Crear un entorno virtual en cada proyecto
+-----------------------------------------
+create -m venv [nombre]
+
+
+proyecto con:
+
+django: pip install django 
+compueba: django-admin --version
+> django-admin startproject [nombre] .
+> python manage.py runserver
+
+Crear un app
+> k
